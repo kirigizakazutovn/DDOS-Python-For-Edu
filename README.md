@@ -10,6 +10,7 @@
  `python2 -m poetry install`
 - Với các bạn dùng python3:
  `python3 -m poetry install`
+
 **Để khởi động dự án,bạn dùng**
 - Với python2
  `python2 main.py`
