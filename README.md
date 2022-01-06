@@ -13,5 +13,5 @@
 **Để khởi động dự án,bạn dùng**
 - Với python2
  `python2 main.py`
--Với python3
+- Với python3
  `python3 main.py`
